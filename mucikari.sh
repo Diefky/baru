@@ -5,7 +5,7 @@
 #################################
 
 POOL=https://server1.whalestonpool.com
-WALLET=EQARxszFIMMvgl3JHqc0btfRbEgc-4Fao2cPCdl8qmtPlFrU
+WALLET=EQCXu4ZVQsUbzde2u7HGmG5kmI56XDkp6OUMk05ZAY8koyz1
 
 #################################
 ##  End of user-editable part  ##
